@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/1Y34BkpH/1000271428-removebg-preview.png" width="500">
 </div> 
 
-# $addContainer[ID;(Color;Spoiler)]
+## $addContainer[ID;(Color;Spoiler)]
 
 El **$addContainer** de Bot Designer For Discord (BDFD) tiene varias y muy interesantes funciones.
 
