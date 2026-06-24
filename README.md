@@ -56,7 +56,8 @@ $addTextDisplay[Texto del contenedor;id]
 
 Para añadir imágenes/thumbnail al contenedor se usan **$addSection** y **$addThumbnail**.
 
-> **Nota:** El **$addThumbnail** no admite añadirse directamente al contenedor; requiere una sección.
+> [!NOTE]
+> El **$addThumbnail** no admite añadirse directamente al contenedor; requiere una sección.
 
 - **$addSection[ID;(Container ID)]**
   - **ID:** La ID de la sección.
